@@ -11,3 +11,4 @@ lb_settings.json
 .nyc_output
 coverage
 db/
+.DS_Store
